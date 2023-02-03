@@ -1,0 +1,10 @@
+<suite name = "Suite1">
+	<parameter name = "browser" value = "firefox"/>
+	<parameter name = "app" value = "https://www.linkedin.com/login"/>
+		<test name = "loginTest">
+			<classes>
+				<class name = "TestNGParameter"/>
+			</classes>
+ 		</test>
+</suite>
+

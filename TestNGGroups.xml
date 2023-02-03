@@ -1,0 +1,12 @@
+<suite  name="TestNG Group Suite">
+	<groups>
+		<run>
+			<include name = "Valid login"/>
+		</run>
+	</groups>
+		<test name="TestNG Groups Test">
+			<classes>
+				<class name="TestNGGroups"/>
+			</classes>
+		</test>
+</suite>

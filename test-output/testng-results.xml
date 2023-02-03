@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-14T14:11:02 IST" name="Default suite" finished-at="2023-01-14T14:13:52 IST" duration-ms="169198">
+    <groups>
+    </groups>
+    <test started-at="2023-01-14T14:11:02 IST" name="Default test" finished-at="2023-01-14T14:13:52 IST" duration-ms="169198">
+      <class name="utility.TestNGDataProviderExcelData">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:11:04 IST" name="setUp" finished-at="2023-01-14T14:11:30 IST" duration-ms="26305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:11:30 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:11:44 IST" duration-ms="14555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.988776655E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rahul.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:11:44 IST" name="closeBrowser" finished-at="2023-01-14T14:11:46 IST" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:11:46 IST" name="setUp" finished-at="2023-01-14T14:11:55 IST" duration-ms="9769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:11:55 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:12:10 IST" duration-ms="14629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harshada]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.988776654E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Harshada.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:10 IST" name="closeBrowser" finished-at="2023-01-14T14:12:10 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:10 IST" name="setUp" finished-at="2023-01-14T14:12:20 IST" duration-ms="10167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:20 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:12:35 IST" duration-ms="14130" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vasant]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.988776653E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Vasant.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:35 IST" name="closeBrowser" finished-at="2023-01-14T14:12:35 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:35 IST" name="setUp" finished-at="2023-01-14T14:12:47 IST" duration-ms="11817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:12:47 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:13:02 IST" duration-ms="15004" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rekha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.988776652E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rekha.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:02 IST" name="closeBrowser" finished-at="2023-01-14T14:13:02 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:02 IST" name="setUp" finished-at="2023-01-14T14:13:12 IST" duration-ms="9648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:12 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:13:27 IST" duration-ms="15075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.988776651E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Raj.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:27 IST" name="closeBrowser" finished-at="2023-01-14T14:13:28 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:28 IST" name="setUp" finished-at="2023-01-14T14:13:37 IST" duration-ms="9800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBooKLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:37 IST" name="faceBooKLogin" data-provider="FacebookAccount" finished-at="2023-01-14T14:13:51 IST" duration-ms="13945" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rushikesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.98877665E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rushikesh.Shinde@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBooKLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:utility.TestNGDataProviderExcelData@6babf3bf]" started-at="2023-01-14T14:13:51 IST" name="closeBrowser" finished-at="2023-01-14T14:13:52 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- utility.TestNGDataProviderExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
